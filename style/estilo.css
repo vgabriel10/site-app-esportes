@@ -52,10 +52,10 @@ li:hover{
 }
 
 .foto-logo{
-
-    background: url("../imgs/logo.png") no-repeat;
+    text-align: center;
+    background: url("../imgs/icon-estadio.png") no-repeat;
     width: 250px;
-    height: 95px;
+    height: 150px;
 }
 
 #conteudos{
